@@ -1,0 +1,12 @@
+{
+    "id": "{3F8136D0-E4E0-94D8-E658-C7B8936A7123}",
+    "name": "WaremaRollo",
+    "type": 3,
+    "vendor": "Warema",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "WMS",
+    "url": ""
+}

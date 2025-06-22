@@ -1,0 +1,8 @@
+{
+    "elements": [
+        { "type": "ValidationTextBox", "name": "Host", "caption": "Host" },
+        { "type": "ValidationTextBox", "name": "DestinationID", "caption": "DestinationID" }
+    ],
+    "actions": [],
+    "status": []
+}

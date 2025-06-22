@@ -1,0 +1,12 @@
+{
+    "id": "{6F9B290D-D336-F9B2-9253-C5B7D35CAC46}",
+    "name": "WaremaLamellen",
+    "type": 3,
+    "vendor": "Warema",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "WMS",
+    "url": ""
+}
